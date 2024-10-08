@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "age": "21",
+            "assistsPerGame": "0.2",
+            "blocksPerGame": "0.0",
+            "defensiveReboundsPerGame": "0.1",
+            "effectiveFieldGoalPercentage": ".214",
+            "fieldGoalAttemptsPerGame": "0.6",
+            "fieldGoalPercentage": ".190",
+            "fieldGoalsMadePerGame": "0.1",
+            "freeThrowAttemptsPerGame": "0.1",
+            "freeThrowPercentage": ".667",
+            "freeThrowsMadePerGame": "0.1",
+            "gamesPlayed": "34",
+            "gamesStarted": "0",
+            "minutesPerGame": "3.0",
+            "offensiveReboundsPerGame": "0.1",
+            "personalFoulsPerGame": "0.1",
+            "pointsPerGame": "0.3",
+            "position": "SF",
+            "season": "2023-2024",
+            "stealsPerGame": "0.1",
+            "team": "LAL",
+            "threePointFieldGoalAttemptsPerGame": "0.3",
+            "threePointFieldGoalPercentage": ".111",
+            "threePointFieldGoalsMadePerGame": "0.0",
+            "totalReboundsPerGame": "0.1",
+            "turnoversPerGame": "0.3",
+            "twoPointFieldGoalAttemptsPerGame": "0.4",
+            "twoPointFieldGoalPercentage": ".250",
+            "twoPointFieldGoalsMadePerGame": "0.1",
+            "playerId": "lewisma05",
+            "statType": "PerGame",
+            "seasonType": "Regular"
+        }
+    ],
+    "totalItems": 2,
+    "responseCode": 200
+}

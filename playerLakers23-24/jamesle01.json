@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "age": "39",
+            "assistsPerGame": "8.3",
+            "blocksPerGame": "0.5",
+            "defensiveReboundsPerGame": "6.4",
+            "effectiveFieldGoalPercentage": ".599",
+            "fieldGoalAttemptsPerGame": "17.9",
+            "fieldGoalPercentage": ".540",
+            "fieldGoalsMadePerGame": "9.6",
+            "freeThrowAttemptsPerGame": "5.7",
+            "freeThrowPercentage": ".750",
+            "freeThrowsMadePerGame": "4.3",
+            "gamesPlayed": "71",
+            "gamesStarted": "71",
+            "minutesPerGame": "35.3",
+            "offensiveReboundsPerGame": "0.9",
+            "personalFoulsPerGame": "1.1",
+            "pointsPerGame": "25.7",
+            "position": "PF",
+            "season": "2023-2024",
+            "stealsPerGame": "1.3",
+            "team": "LAL",
+            "threePointFieldGoalAttemptsPerGame": "5.1",
+            "threePointFieldGoalPercentage": ".410",
+            "threePointFieldGoalsMadePerGame": "2.1",
+            "totalReboundsPerGame": "7.3",
+            "turnoversPerGame": "3.5",
+            "twoPointFieldGoalAttemptsPerGame": "12.8",
+            "twoPointFieldGoalPercentage": ".592",
+            "twoPointFieldGoalsMadePerGame": "7.5",
+            "playerId": "jamesle01",
+            "statType": "PerGame",
+            "seasonType": "Regular"
+        }
+    ],
+    "totalItems": 40,
+    "responseCode": 200
+}

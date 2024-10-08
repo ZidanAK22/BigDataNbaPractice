@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "age": "25",
+            "assistsPerGame": "0.7",
+            "blocksPerGame": "0.1",
+            "defensiveReboundsPerGame": "0.0",
+            "effectiveFieldGoalPercentage": ".433",
+            "fieldGoalAttemptsPerGame": "2.1",
+            "fieldGoalPercentage": ".333",
+            "fieldGoalsMadePerGame": "0.7",
+            "freeThrowAttemptsPerGame": "0.3",
+            "freeThrowPercentage": ".500",
+            "freeThrowsMadePerGame": "0.1",
+            "gamesPlayed": "7",
+            "gamesStarted": "0",
+            "minutesPerGame": "5.9",
+            "offensiveReboundsPerGame": "0.0",
+            "personalFoulsPerGame": "0.6",
+            "pointsPerGame": "2.0",
+            "position": "SG",
+            "season": "2023-2024",
+            "stealsPerGame": "0.1",
+            "team": "LAL",
+            "threePointFieldGoalAttemptsPerGame": "1.7",
+            "threePointFieldGoalPercentage": ".250",
+            "threePointFieldGoalsMadePerGame": "0.4",
+            "totalReboundsPerGame": "0.0",
+            "turnoversPerGame": "0.1",
+            "twoPointFieldGoalAttemptsPerGame": "0.4",
+            "twoPointFieldGoalPercentage": ".667",
+            "twoPointFieldGoalsMadePerGame": "0.3",
+            "playerId": "hodgedm01",
+            "statType": "PerGame",
+            "seasonType": "Regular"
+        }
+    ],
+    "totalItems": 2,
+    "responseCode": 200
+}

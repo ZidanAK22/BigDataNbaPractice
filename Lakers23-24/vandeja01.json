@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "age": "24",
+            "assistsPerGame": "1.2",
+            "blocksPerGame": "0.2",
+            "defensiveReboundsPerGame": "3.3",
+            "effectiveFieldGoalPercentage": ".553",
+            "fieldGoalAttemptsPerGame": "3.9",
+            "fieldGoalPercentage": ".518",
+            "fieldGoalsMadePerGame": "2.0",
+            "freeThrowAttemptsPerGame": "1.2",
+            "freeThrowPercentage": ".667",
+            "freeThrowsMadePerGame": "0.8",
+            "gamesPlayed": "29",
+            "gamesStarted": "6",
+            "minutesPerGame": "20.0",
+            "offensiveReboundsPerGame": "1.4",
+            "personalFoulsPerGame": "1.5",
+            "pointsPerGame": "5.2",
+            "position": "PF",
+            "season": "2023-2024",
+            "stealsPerGame": "1.2",
+            "team": "LAL",
+            "threePointFieldGoalAttemptsPerGame": "0.9",
+            "threePointFieldGoalPercentage": ".296",
+            "threePointFieldGoalsMadePerGame": "0.3",
+            "totalReboundsPerGame": "4.8",
+            "turnoversPerGame": "1.0",
+            "twoPointFieldGoalAttemptsPerGame": "3.0",
+            "twoPointFieldGoalPercentage": ".586",
+            "twoPointFieldGoalsMadePerGame": "1.8",
+            "playerId": "vandeja01",
+            "statType": "PerGame",
+            "seasonType": "Regular"
+        }
+    ],
+    "totalItems": 11,
+    "responseCode": 200
+}

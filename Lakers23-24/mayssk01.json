@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "age": "26",
+            "assistsPerGame": "0.6",
+            "blocksPerGame": "0.1",
+            "defensiveReboundsPerGame": "0.3",
+            "effectiveFieldGoalPercentage": ".524",
+            "fieldGoalAttemptsPerGame": "1.2",
+            "fieldGoalPercentage": ".476",
+            "fieldGoalsMadePerGame": "0.6",
+            "freeThrowAttemptsPerGame": "0.0",
+            "freeThrowPercentage": "",
+            "freeThrowsMadePerGame": "0.0",
+            "gamesPlayed": "17",
+            "gamesStarted": "0",
+            "minutesPerGame": "4.5",
+            "offensiveReboundsPerGame": "0.1",
+            "personalFoulsPerGame": "0.4",
+            "pointsPerGame": "1.3",
+            "position": "SG",
+            "season": "2023-2024",
+            "stealsPerGame": "0.4",
+            "team": "LAL",
+            "threePointFieldGoalAttemptsPerGame": "0.3",
+            "threePointFieldGoalPercentage": ".400",
+            "threePointFieldGoalsMadePerGame": "0.1",
+            "totalReboundsPerGame": "0.4",
+            "turnoversPerGame": "0.1",
+            "twoPointFieldGoalAttemptsPerGame": "0.9",
+            "twoPointFieldGoalPercentage": ".500",
+            "twoPointFieldGoalsMadePerGame": "0.5",
+            "playerId": "mayssk01",
+            "statType": "PerGame",
+            "seasonType": "Regular"
+        }
+    ],
+    "totalItems": 8,
+    "responseCode": 200
+}

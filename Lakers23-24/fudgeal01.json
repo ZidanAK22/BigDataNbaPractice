@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "age": "20",
+            "assistsPerGame": "0.0",
+            "blocksPerGame": "0.0",
+            "defensiveReboundsPerGame": "0.5",
+            "effectiveFieldGoalPercentage": ".611",
+            "fieldGoalAttemptsPerGame": "4.5",
+            "fieldGoalPercentage": ".556",
+            "fieldGoalsMadePerGame": "2.5",
+            "freeThrowAttemptsPerGame": "0.0",
+            "freeThrowPercentage": "",
+            "freeThrowsMadePerGame": "0.0",
+            "gamesPlayed": "2",
+            "gamesStarted": "0",
+            "minutesPerGame": "13.0",
+            "offensiveReboundsPerGame": "1.0",
+            "personalFoulsPerGame": "0.5",
+            "pointsPerGame": "5.5",
+            "position": "SF",
+            "season": "2023-2024",
+            "stealsPerGame": "1.5",
+            "team": "DAL",
+            "threePointFieldGoalAttemptsPerGame": "1.5",
+            "threePointFieldGoalPercentage": ".333",
+            "threePointFieldGoalsMadePerGame": "0.5",
+            "totalReboundsPerGame": "1.5",
+            "turnoversPerGame": "0.5",
+            "twoPointFieldGoalAttemptsPerGame": "3.0",
+            "twoPointFieldGoalPercentage": ".667",
+            "twoPointFieldGoalsMadePerGame": "2.0",
+            "playerId": "fudgeal01",
+            "statType": "PerGame",
+            "seasonType": "Regular"
+        }
+    ],
+    "totalItems": 2,
+    "responseCode": 200
+}

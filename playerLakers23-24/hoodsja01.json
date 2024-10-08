@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "age": "20",
+            "assistsPerGame": "0.4",
+            "blocksPerGame": "0.1",
+            "defensiveReboundsPerGame": "0.5",
+            "effectiveFieldGoalPercentage": ".244",
+            "fieldGoalAttemptsPerGame": "2.1",
+            "fieldGoalPercentage": ".222",
+            "fieldGoalsMadePerGame": "0.5",
+            "freeThrowAttemptsPerGame": "1.0",
+            "freeThrowPercentage": ".600",
+            "freeThrowsMadePerGame": "0.6",
+            "gamesPlayed": "21",
+            "gamesStarted": "0",
+            "minutesPerGame": "5.2",
+            "offensiveReboundsPerGame": "0.1",
+            "personalFoulsPerGame": "0.6",
+            "pointsPerGame": "1.6",
+            "position": "SG",
+            "season": "2023-2024",
+            "stealsPerGame": "0.1",
+            "team": "LAL",
+            "threePointFieldGoalAttemptsPerGame": "0.7",
+            "threePointFieldGoalPercentage": ".133",
+            "threePointFieldGoalsMadePerGame": "0.1",
+            "totalReboundsPerGame": "0.6",
+            "turnoversPerGame": "0.4",
+            "twoPointFieldGoalAttemptsPerGame": "1.4",
+            "twoPointFieldGoalPercentage": ".267",
+            "twoPointFieldGoalsMadePerGame": "0.4",
+            "playerId": "hoodsja01",
+            "statType": "PerGame",
+            "seasonType": "Regular"
+        }
+    ],
+    "totalItems": 2,
+    "responseCode": 200
+}

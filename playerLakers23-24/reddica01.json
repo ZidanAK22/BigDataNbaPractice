@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "age": "24",
+            "assistsPerGame": "1.0",
+            "blocksPerGame": "0.3",
+            "defensiveReboundsPerGame": "1.5",
+            "effectiveFieldGoalPercentage": ".468",
+            "fieldGoalAttemptsPerGame": "4.9",
+            "fieldGoalPercentage": ".389",
+            "fieldGoalsMadePerGame": "1.9",
+            "freeThrowAttemptsPerGame": "1.1",
+            "freeThrowPercentage": ".759",
+            "freeThrowsMadePerGame": "0.9",
+            "gamesPlayed": "48",
+            "gamesStarted": "26",
+            "minutesPerGame": "20.5",
+            "offensiveReboundsPerGame": "0.6",
+            "personalFoulsPerGame": "1.3",
+            "pointsPerGame": "5.4",
+            "position": "SF",
+            "season": "2023-2024",
+            "stealsPerGame": "1.0",
+            "team": "LAL",
+            "threePointFieldGoalAttemptsPerGame": "2.3",
+            "threePointFieldGoalPercentage": ".336",
+            "threePointFieldGoalsMadePerGame": "0.8",
+            "totalReboundsPerGame": "2.1",
+            "turnoversPerGame": "0.6",
+            "twoPointFieldGoalAttemptsPerGame": "2.6",
+            "twoPointFieldGoalPercentage": ".435",
+            "twoPointFieldGoalsMadePerGame": "1.1",
+            "playerId": "reddica01",
+            "statType": "PerGame",
+            "seasonType": "Regular"
+        }
+    ],
+    "totalItems": 8,
+    "responseCode": 200
+}

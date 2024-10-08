@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "age": "20",
+            "assistsPerGame": "0.9",
+            "blocksPerGame": "0.3",
+            "defensiveReboundsPerGame": "1.9",
+            "effectiveFieldGoalPercentage": ".515",
+            "fieldGoalAttemptsPerGame": "3.6",
+            "fieldGoalPercentage": ".427",
+            "fieldGoalsMadePerGame": "1.5",
+            "freeThrowAttemptsPerGame": "0.7",
+            "freeThrowPercentage": ".783",
+            "freeThrowsMadePerGame": "0.5",
+            "gamesPlayed": "67",
+            "gamesStarted": "7",
+            "minutesPerGame": "14.1",
+            "offensiveReboundsPerGame": "0.2",
+            "personalFoulsPerGame": "0.9",
+            "pointsPerGame": "4.2",
+            "position": "SG",
+            "season": "2023-2024",
+            "stealsPerGame": "0.3",
+            "team": "LAL",
+            "threePointFieldGoalAttemptsPerGame": "1.8",
+            "threePointFieldGoalPercentage": ".356",
+            "threePointFieldGoalsMadePerGame": "0.6",
+            "totalReboundsPerGame": "2.1",
+            "turnoversPerGame": "0.5",
+            "twoPointFieldGoalAttemptsPerGame": "1.8",
+            "twoPointFieldGoalPercentage": ".496",
+            "twoPointFieldGoalsMadePerGame": "0.9",
+            "playerId": "chrisma02",
+            "statType": "PerGame",
+            "seasonType": "Regular"
+        }
+    ],
+    "totalItems": 5,
+    "responseCode": 200
+}

@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "age": "23",
+            "assistsPerGame": "0.2",
+            "blocksPerGame": "0.0",
+            "defensiveReboundsPerGame": "0.4",
+            "effectiveFieldGoalPercentage": ".563",
+            "fieldGoalAttemptsPerGame": "1.0",
+            "fieldGoalPercentage": ".563",
+            "fieldGoalsMadePerGame": "0.6",
+            "freeThrowAttemptsPerGame": "0.4",
+            "freeThrowPercentage": "1.000",
+            "freeThrowsMadePerGame": "0.4",
+            "gamesPlayed": "16",
+            "gamesStarted": "0",
+            "minutesPerGame": "3.7",
+            "offensiveReboundsPerGame": "0.4",
+            "personalFoulsPerGame": "0.7",
+            "pointsPerGame": "1.5",
+            "position": "C",
+            "season": "2023-2024",
+            "stealsPerGame": "0.1",
+            "team": "LAL",
+            "threePointFieldGoalAttemptsPerGame": "0.0",
+            "threePointFieldGoalPercentage": "",
+            "threePointFieldGoalsMadePerGame": "0.0",
+            "totalReboundsPerGame": "0.8",
+            "turnoversPerGame": "0.2",
+            "twoPointFieldGoalAttemptsPerGame": "1.0",
+            "twoPointFieldGoalPercentage": ".563",
+            "twoPointFieldGoalsMadePerGame": "0.6",
+            "playerId": "castlco01",
+            "statType": "PerGame",
+            "seasonType": "Regular"
+        }
+    ],
+    "totalItems": 2,
+    "responseCode": 200
+}

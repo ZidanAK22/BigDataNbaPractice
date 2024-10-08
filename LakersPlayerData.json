@@ -1,0 +1,220 @@
+{
+    "body": {
+        "teamId": "LAL",
+        "seasonId": "2023-2024",
+        "roster": [
+            {
+                "yearsOfExperience": "R",
+                "jerseyNumber": "14",
+                "name": "Colin Castleton",
+                "weight": "250",
+                "position": "C",
+                "birthDate": "May 25, 2000",
+                "playerId": "castlco01",
+                "height": "6-11"
+            },
+            {
+                "yearsOfExperience": "1",
+                "jerseyNumber": "10",
+                "name": "Max Christie",
+                "weight": "190",
+                "position": "SG",
+                "birthDate": "February 10, 2003",
+                "playerId": "chrisma02",
+                "height": "6-6"
+            },
+            {
+                "yearsOfExperience": "11",
+                "jerseyNumber": "3",
+                "name": "Anthony Davis",
+                "weight": "253",
+                "position": "C",
+                "birthDate": "March 11, 1993",
+                "playerId": "davisan02",
+                "height": "6-10"
+            },
+            {
+                "yearsOfExperience": "9",
+                "jerseyNumber": "26",
+                "name": "Spencer Dinwiddie",
+                "weight": "215",
+                "position": "PG",
+                "birthDate": "April 6, 1993",
+                "playerId": "dinwisp01",
+                "height": "6-5"
+            },
+            {
+                "yearsOfExperience": "R",
+                "jerseyNumber": "17",
+                "name": "Alex Fudge",
+                "weight": "200",
+                "position": "SF",
+                "birthDate": "May 6, 2003",
+                "playerId": "fudgeal01",
+                "height": "6-8"
+            },
+            {
+                "yearsOfExperience": "3",
+                "jerseyNumber": "20",
+                "name": "Harry Giles",
+                "weight": "240",
+                "position": "C",
+                "birthDate": "April 22, 1998",
+                "playerId": "gilesha01",
+                "height": "6-11"
+            },
+            {
+                "yearsOfExperience": "4",
+                "jerseyNumber": "28",
+                "name": "Rui Hachimura",
+                "weight": "230",
+                "position": "PF",
+                "birthDate": "February 8, 1998",
+                "playerId": "hachiru01",
+                "height": "6-8"
+            },
+            {
+                "yearsOfExperience": "4",
+                "jerseyNumber": "11",
+                "name": "Jaxson Hayes",
+                "weight": "220",
+                "position": "C",
+                "birthDate": "May 23, 2000",
+                "playerId": "hayesja02",
+                "height": "7-0"
+            },
+            {
+                "yearsOfExperience": "R",
+                "jerseyNumber": "55",
+                "name": "D'Moi Hodge",
+                "weight": "188",
+                "position": "SG",
+                "birthDate": "December 20, 1998",
+                "playerId": "hodgedm01",
+                "height": "6-4"
+            },
+            {
+                "yearsOfExperience": "R",
+                "jerseyNumber": "0",
+                "name": "Jalen Hood-Schifino",
+                "weight": "215",
+                "position": "SG",
+                "birthDate": "June 19, 2003",
+                "playerId": "hoodsja01",
+                "height": "6-6"
+            },
+            {
+                "yearsOfExperience": "20",
+                "jerseyNumber": "23",
+                "name": "LeBron James",
+                "weight": "250",
+                "position": "PF",
+                "birthDate": "December 30, 1984",
+                "playerId": "jamesle01",
+                "height": "6-9"
+            },
+            {
+                "yearsOfExperience": "R",
+                "jerseyNumber": "21",
+                "name": "Maxwell Lewis",
+                "weight": "195",
+                "position": "SF",
+                "birthDate": "July 27, 2002",
+                "playerId": "lewisma05",
+                "height": "6-7"
+            },
+            {
+                "yearsOfExperience": "3",
+                "jerseyNumber": "4",
+                "name": "Skylar Mays",
+                "weight": "205",
+                "position": "SG",
+                "birthDate": "September 5, 1997",
+                "playerId": "mayssk01",
+                "height": "6-4"
+            },
+            {
+                "yearsOfExperience": "7",
+                "jerseyNumber": "12",
+                "name": "Taurean Prince",
+                "weight": "218",
+                "position": "PF",
+                "birthDate": "March 22, 1994",
+                "playerId": "princta02",
+                "height": "6-6"
+            },
+            {
+                "yearsOfExperience": "2",
+                "jerseyNumber": "15",
+                "name": "Austin Reaves",
+                "weight": "206",
+                "position": "SG",
+                "birthDate": "May 29, 1998",
+                "playerId": "reaveau01",
+                "height": "6-5"
+            },
+            {
+                "yearsOfExperience": "4",
+                "jerseyNumber": "5",
+                "name": "Cam Reddish",
+                "weight": "218",
+                "position": "SF",
+                "birthDate": "September 1, 1999",
+                "playerId": "reddica01",
+                "height": "6-8"
+            },
+            {
+                "yearsOfExperience": "8",
+                "jerseyNumber": "1",
+                "name": "D'Angelo Russell",
+                "weight": "193",
+                "position": "PG",
+                "birthDate": "February 23, 1996",
+                "playerId": "russeda01",
+                "height": "6-3"
+            },
+            {
+                "yearsOfExperience": "5",
+                "jerseyNumber": "2",
+                "name": "Jarred Vanderbilt",
+                "weight": "214",
+                "position": "PF",
+                "birthDate": "April 3, 1999",
+                "playerId": "vandeja01",
+                "height": "6-8"
+            },
+            {
+                "yearsOfExperience": "4",
+                "jerseyNumber": "7",
+                "name": "Gabe Vincent",
+                "weight": "195",
+                "position": "PG",
+                "birthDate": "June 14, 1996",
+                "playerId": "vincega01",
+                "height": "6-3"
+            },
+            {
+                "yearsOfExperience": "3",
+                "jerseyNumber": "20",
+                "name": "Dylan Windler",
+                "weight": "196",
+                "position": "SF",
+                "birthDate": "September 22, 1996",
+                "playerId": "windldy01",
+                "height": "6-6"
+            },
+            {
+                "yearsOfExperience": "7",
+                "jerseyNumber": "35",
+                "name": "Christian Wood",
+                "weight": "214",
+                "position": "PF",
+                "birthDate": "September 27, 1995",
+                "playerId": "woodch01",
+                "height": "6-8"
+            }
+        ]
+    },
+    "totalItems": 1,
+    "responseCode": 200
+}

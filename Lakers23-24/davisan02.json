@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "age": "30",
+            "assistsPerGame": "3.5",
+            "blocksPerGame": "2.3",
+            "defensiveReboundsPerGame": "9.5",
+            "effectiveFieldGoalPercentage": ".567",
+            "fieldGoalAttemptsPerGame": "16.9",
+            "fieldGoalPercentage": ".556",
+            "fieldGoalsMadePerGame": "9.4",
+            "freeThrowAttemptsPerGame": "6.8",
+            "freeThrowPercentage": ".816",
+            "freeThrowsMadePerGame": "5.5",
+            "gamesPlayed": "76",
+            "gamesStarted": "76",
+            "minutesPerGame": "35.5",
+            "offensiveReboundsPerGame": "3.1",
+            "personalFoulsPerGame": "2.3",
+            "pointsPerGame": "24.7",
+            "position": "C",
+            "season": "2023-2024",
+            "stealsPerGame": "1.2",
+            "team": "LAL",
+            "threePointFieldGoalAttemptsPerGame": "1.4",
+            "threePointFieldGoalPercentage": ".271",
+            "threePointFieldGoalsMadePerGame": "0.4",
+            "totalReboundsPerGame": "12.6",
+            "turnoversPerGame": "2.1",
+            "twoPointFieldGoalAttemptsPerGame": "15.5",
+            "twoPointFieldGoalPercentage": ".582",
+            "twoPointFieldGoalsMadePerGame": "9.0",
+            "playerId": "davisan02",
+            "statType": "PerGame",
+            "seasonType": "Regular"
+        }
+    ],
+    "totalItems": 20,
+    "responseCode": 200
+}

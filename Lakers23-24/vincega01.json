@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "age": "27",
+            "assistsPerGame": "1.9",
+            "blocksPerGame": "0.0",
+            "defensiveReboundsPerGame": "0.5",
+            "effectiveFieldGoalPercentage": ".337",
+            "fieldGoalAttemptsPerGame": "4.5",
+            "fieldGoalPercentage": ".306",
+            "fieldGoalsMadePerGame": "1.4",
+            "freeThrowAttemptsPerGame": "0.2",
+            "freeThrowPercentage": ".500",
+            "freeThrowsMadePerGame": "0.1",
+            "gamesPlayed": "11",
+            "gamesStarted": "0",
+            "minutesPerGame": "19.8",
+            "offensiveReboundsPerGame": "0.4",
+            "personalFoulsPerGame": "1.7",
+            "pointsPerGame": "3.1",
+            "position": "PG",
+            "season": "2023-2024",
+            "stealsPerGame": "0.8",
+            "team": "LAL",
+            "threePointFieldGoalAttemptsPerGame": "2.5",
+            "threePointFieldGoalPercentage": ".107",
+            "threePointFieldGoalsMadePerGame": "0.3",
+            "totalReboundsPerGame": "0.8",
+            "turnoversPerGame": "0.5",
+            "twoPointFieldGoalAttemptsPerGame": "1.9",
+            "twoPointFieldGoalPercentage": ".571",
+            "twoPointFieldGoalsMadePerGame": "1.1",
+            "playerId": "vincega01",
+            "statType": "PerGame",
+            "seasonType": "Regular"
+        }
+    ],
+    "totalItems": 12,
+    "responseCode": 200
+}

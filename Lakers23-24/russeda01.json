@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "age": "27",
+            "assistsPerGame": "6.3",
+            "blocksPerGame": "0.5",
+            "defensiveReboundsPerGame": "2.7",
+            "effectiveFieldGoalPercentage": ".560",
+            "fieldGoalAttemptsPerGame": "14.2",
+            "fieldGoalPercentage": ".456",
+            "fieldGoalsMadePerGame": "6.5",
+            "freeThrowAttemptsPerGame": "2.5",
+            "freeThrowPercentage": ".828",
+            "freeThrowsMadePerGame": "2.1",
+            "gamesPlayed": "76",
+            "gamesStarted": "69",
+            "minutesPerGame": "32.7",
+            "offensiveReboundsPerGame": "0.4",
+            "personalFoulsPerGame": "2.1",
+            "pointsPerGame": "18.0",
+            "position": "PG",
+            "season": "2023-2024",
+            "stealsPerGame": "0.9",
+            "team": "LAL",
+            "threePointFieldGoalAttemptsPerGame": "7.2",
+            "threePointFieldGoalPercentage": ".415",
+            "threePointFieldGoalsMadePerGame": "3.0",
+            "totalReboundsPerGame": "3.1",
+            "turnoversPerGame": "2.1",
+            "twoPointFieldGoalAttemptsPerGame": "7.0",
+            "twoPointFieldGoalPercentage": ".497",
+            "twoPointFieldGoalsMadePerGame": "3.5",
+            "playerId": "russeda01",
+            "statType": "PerGame",
+            "seasonType": "Regular"
+        }
+    ],
+    "totalItems": 15,
+    "responseCode": 200
+}

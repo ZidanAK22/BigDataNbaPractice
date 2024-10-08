@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "age": "27",
+            "assistsPerGame": "0.5",
+            "blocksPerGame": "0.0",
+            "defensiveReboundsPerGame": "1.5",
+            "effectiveFieldGoalPercentage": ".737",
+            "fieldGoalAttemptsPerGame": "3.2",
+            "fieldGoalPercentage": ".526",
+            "fieldGoalsMadePerGame": "1.7",
+            "freeThrowAttemptsPerGame": "0.0",
+            "freeThrowPercentage": "",
+            "freeThrowsMadePerGame": "0.0",
+            "gamesPlayed": "6",
+            "gamesStarted": "0",
+            "minutesPerGame": "12.2",
+            "offensiveReboundsPerGame": "0.5",
+            "personalFoulsPerGame": "0.5",
+            "pointsPerGame": "4.7",
+            "position": "SF",
+            "season": "2023-2024",
+            "stealsPerGame": "0.3",
+            "team": "ATL",
+            "threePointFieldGoalAttemptsPerGame": "2.8",
+            "threePointFieldGoalPercentage": ".471",
+            "threePointFieldGoalsMadePerGame": "1.3",
+            "totalReboundsPerGame": "2.0",
+            "turnoversPerGame": "0.3",
+            "twoPointFieldGoalAttemptsPerGame": "0.3",
+            "twoPointFieldGoalPercentage": "1.000",
+            "twoPointFieldGoalsMadePerGame": "0.3",
+            "playerId": "windldy01",
+            "statType": "PerGame",
+            "seasonType": "Regular"
+        }
+    ],
+    "totalItems": 5,
+    "responseCode": 200
+}

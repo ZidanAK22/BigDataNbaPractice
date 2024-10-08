@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "age": "25",
+            "assistsPerGame": "0.0",
+            "blocksPerGame": "0.0",
+            "defensiveReboundsPerGame": "0.6",
+            "effectiveFieldGoalPercentage": ".167",
+            "fieldGoalAttemptsPerGame": "0.9",
+            "fieldGoalPercentage": ".167",
+            "fieldGoalsMadePerGame": "0.1",
+            "freeThrowAttemptsPerGame": "0.0",
+            "freeThrowPercentage": "",
+            "freeThrowsMadePerGame": "0.0",
+            "gamesPlayed": "7",
+            "gamesStarted": "0",
+            "minutesPerGame": "2.7",
+            "offensiveReboundsPerGame": "0.0",
+            "personalFoulsPerGame": "0.0",
+            "pointsPerGame": "0.3",
+            "position": "C",
+            "season": "2023-2024",
+            "stealsPerGame": "0.1",
+            "team": "LAL",
+            "threePointFieldGoalAttemptsPerGame": "0.4",
+            "threePointFieldGoalPercentage": ".000",
+            "threePointFieldGoalsMadePerGame": "0.0",
+            "totalReboundsPerGame": "0.6",
+            "turnoversPerGame": "0.0",
+            "twoPointFieldGoalAttemptsPerGame": "0.4",
+            "twoPointFieldGoalPercentage": ".333",
+            "twoPointFieldGoalsMadePerGame": "0.1",
+            "playerId": "gilesha01",
+            "statType": "PerGame",
+            "seasonType": "Regular"
+        }
+    ],
+    "totalItems": 7,
+    "responseCode": 200
+}

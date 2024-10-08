@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "age": "25",
+            "assistsPerGame": "5.5",
+            "blocksPerGame": "0.3",
+            "defensiveReboundsPerGame": "3.6",
+            "effectiveFieldGoalPercentage": ".568",
+            "fieldGoalAttemptsPerGame": "11.5",
+            "fieldGoalPercentage": ".486",
+            "fieldGoalsMadePerGame": "5.6",
+            "freeThrowAttemptsPerGame": "3.3",
+            "freeThrowPercentage": ".853",
+            "freeThrowsMadePerGame": "2.8",
+            "gamesPlayed": "82",
+            "gamesStarted": "57",
+            "minutesPerGame": "32.1",
+            "offensiveReboundsPerGame": "0.7",
+            "personalFoulsPerGame": "1.9",
+            "pointsPerGame": "15.9",
+            "position": "SG",
+            "season": "2023-2024",
+            "stealsPerGame": "0.8",
+            "team": "LAL",
+            "threePointFieldGoalAttemptsPerGame": "5.1",
+            "threePointFieldGoalPercentage": ".367",
+            "threePointFieldGoalsMadePerGame": "1.9",
+            "totalReboundsPerGame": "4.3",
+            "turnoversPerGame": "2.1",
+            "twoPointFieldGoalAttemptsPerGame": "6.3",
+            "twoPointFieldGoalPercentage": ".583",
+            "twoPointFieldGoalsMadePerGame": "3.7",
+            "playerId": "reaveau01",
+            "statType": "PerGame",
+            "seasonType": "Regular"
+        }
+    ],
+    "totalItems": 7,
+    "responseCode": 200
+}

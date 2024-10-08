@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "age": "29",
+            "assistsPerGame": "1.5",
+            "blocksPerGame": "0.4",
+            "defensiveReboundsPerGame": "2.7",
+            "effectiveFieldGoalPercentage": ".566",
+            "fieldGoalAttemptsPerGame": "7.3",
+            "fieldGoalPercentage": ".442",
+            "fieldGoalsMadePerGame": "3.2",
+            "freeThrowAttemptsPerGame": "0.9",
+            "freeThrowPercentage": ".735",
+            "freeThrowsMadePerGame": "0.6",
+            "gamesPlayed": "78",
+            "gamesStarted": "49",
+            "minutesPerGame": "27.0",
+            "offensiveReboundsPerGame": "0.3",
+            "personalFoulsPerGame": "1.9",
+            "pointsPerGame": "8.9",
+            "position": "PF",
+            "season": "2023-2024",
+            "stealsPerGame": "0.7",
+            "team": "LAL",
+            "threePointFieldGoalAttemptsPerGame": "4.6",
+            "threePointFieldGoalPercentage": ".396",
+            "threePointFieldGoalsMadePerGame": "1.8",
+            "totalReboundsPerGame": "2.9",
+            "turnoversPerGame": "0.9",
+            "twoPointFieldGoalAttemptsPerGame": "2.8",
+            "twoPointFieldGoalPercentage": ".519",
+            "twoPointFieldGoalsMadePerGame": "1.4",
+            "playerId": "princta02",
+            "statType": "PerGame",
+            "seasonType": "Regular"
+        }
+    ],
+    "totalItems": 14,
+    "responseCode": 200
+}

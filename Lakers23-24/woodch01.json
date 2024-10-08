@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "age": "28",
+            "assistsPerGame": "1.0",
+            "blocksPerGame": "0.7",
+            "defensiveReboundsPerGame": "4.3",
+            "effectiveFieldGoalPercentage": ".532",
+            "fieldGoalAttemptsPerGame": "5.3",
+            "fieldGoalPercentage": ".466",
+            "fieldGoalsMadePerGame": "2.5",
+            "freeThrowAttemptsPerGame": "1.9",
+            "freeThrowPercentage": ".702",
+            "freeThrowsMadePerGame": "1.3",
+            "gamesPlayed": "50",
+            "gamesStarted": "1",
+            "minutesPerGame": "17.4",
+            "offensiveReboundsPerGame": "0.8",
+            "personalFoulsPerGame": "1.4",
+            "pointsPerGame": "6.9",
+            "position": "PF",
+            "season": "2023-2024",
+            "stealsPerGame": "0.3",
+            "team": "LAL",
+            "threePointFieldGoalAttemptsPerGame": "2.3",
+            "threePointFieldGoalPercentage": ".307",
+            "threePointFieldGoalsMadePerGame": "0.7",
+            "totalReboundsPerGame": "5.1",
+            "turnoversPerGame": "1.0",
+            "twoPointFieldGoalAttemptsPerGame": "3.0",
+            "twoPointFieldGoalPercentage": ".587",
+            "twoPointFieldGoalsMadePerGame": "1.8",
+            "playerId": "woodch01",
+            "statType": "PerGame",
+            "seasonType": "Regular"
+        }
+    ],
+    "totalItems": 9,
+    "responseCode": 200
+}

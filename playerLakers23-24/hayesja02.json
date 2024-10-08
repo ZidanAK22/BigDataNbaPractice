@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "age": "23",
+            "assistsPerGame": "0.5",
+            "blocksPerGame": "0.4",
+            "defensiveReboundsPerGame": "2.0",
+            "effectiveFieldGoalPercentage": ".720",
+            "fieldGoalAttemptsPerGame": "2.5",
+            "fieldGoalPercentage": ".720",
+            "fieldGoalsMadePerGame": "1.8",
+            "freeThrowAttemptsPerGame": "1.2",
+            "freeThrowPercentage": ".622",
+            "freeThrowsMadePerGame": "0.7",
+            "gamesPlayed": "70",
+            "gamesStarted": "5",
+            "minutesPerGame": "12.5",
+            "offensiveReboundsPerGame": "1.0",
+            "personalFoulsPerGame": "1.8",
+            "pointsPerGame": "4.3",
+            "position": "C",
+            "season": "2023-2024",
+            "stealsPerGame": "0.5",
+            "team": "LAL",
+            "threePointFieldGoalAttemptsPerGame": "0.1",
+            "threePointFieldGoalPercentage": ".000",
+            "threePointFieldGoalsMadePerGame": "0.0",
+            "totalReboundsPerGame": "3.0",
+            "turnoversPerGame": "0.6",
+            "twoPointFieldGoalAttemptsPerGame": "2.4",
+            "twoPointFieldGoalPercentage": ".754",
+            "twoPointFieldGoalsMadePerGame": "1.8",
+            "playerId": "hayesja02",
+            "statType": "PerGame",
+            "seasonType": "Regular"
+        }
+    ],
+    "totalItems": 9,
+    "responseCode": 200
+}

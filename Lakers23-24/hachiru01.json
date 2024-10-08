@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "age": "25",
+            "assistsPerGame": "1.2",
+            "blocksPerGame": "0.4",
+            "defensiveReboundsPerGame": "3.5",
+            "effectiveFieldGoalPercentage": ".609",
+            "fieldGoalAttemptsPerGame": "9.9",
+            "fieldGoalPercentage": ".537",
+            "fieldGoalsMadePerGame": "5.3",
+            "freeThrowAttemptsPerGame": "2.0",
+            "freeThrowPercentage": ".739",
+            "freeThrowsMadePerGame": "1.5",
+            "gamesPlayed": "68",
+            "gamesStarted": "39",
+            "minutesPerGame": "26.9",
+            "offensiveReboundsPerGame": "0.9",
+            "personalFoulsPerGame": "1.5",
+            "pointsPerGame": "13.6",
+            "position": "PF",
+            "season": "2023-2024",
+            "stealsPerGame": "0.6",
+            "team": "LAL",
+            "threePointFieldGoalAttemptsPerGame": "3.4",
+            "threePointFieldGoalPercentage": ".422",
+            "threePointFieldGoalsMadePerGame": "1.4",
+            "totalReboundsPerGame": "4.3",
+            "turnoversPerGame": "0.7",
+            "twoPointFieldGoalAttemptsPerGame": "6.5",
+            "twoPointFieldGoalPercentage": ".597",
+            "twoPointFieldGoalsMadePerGame": "3.9",
+            "playerId": "hachiru01",
+            "statType": "PerGame",
+            "seasonType": "Regular"
+        }
+    ],
+    "totalItems": 10,
+    "responseCode": 200
+}

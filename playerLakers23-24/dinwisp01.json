@@ -1,0 +1,40 @@
+{
+    "body": [
+        {
+            "age": "30",
+            "assistsPerGame": "2.4",
+            "blocksPerGame": "0.5",
+            "defensiveReboundsPerGame": "1.5",
+            "effectiveFieldGoalPercentage": ".521",
+            "fieldGoalAttemptsPerGame": "5.0",
+            "fieldGoalPercentage": ".397",
+            "fieldGoalsMadePerGame": "2.0",
+            "freeThrowAttemptsPerGame": "1.8",
+            "freeThrowPercentage": ".880",
+            "freeThrowsMadePerGame": "1.6",
+            "gamesPlayed": "28",
+            "gamesStarted": "4",
+            "minutesPerGame": "24.2",
+            "offensiveReboundsPerGame": "0.1",
+            "personalFoulsPerGame": "1.9",
+            "pointsPerGame": "6.8",
+            "position": "PG",
+            "season": "2023-2024",
+            "stealsPerGame": "0.5",
+            "team": "LAL",
+            "threePointFieldGoalAttemptsPerGame": "3.2",
+            "threePointFieldGoalPercentage": ".389",
+            "threePointFieldGoalsMadePerGame": "1.3",
+            "totalReboundsPerGame": "1.7",
+            "turnoversPerGame": "1.0",
+            "twoPointFieldGoalAttemptsPerGame": "1.8",
+            "twoPointFieldGoalPercentage": ".412",
+            "twoPointFieldGoalsMadePerGame": "0.8",
+            "playerId": "dinwisp01",
+            "statType": "PerGame",
+            "seasonType": "Regular"
+        }
+    ],
+    "totalItems": 17,
+    "responseCode": 200
+}
