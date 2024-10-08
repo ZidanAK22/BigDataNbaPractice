@@ -7,7 +7,7 @@ def getPlayerIdAndNames():
     with open('LakersPlayerData.json', 'r') as file:
         lakersPlayers = json.load(file)
 
-    player_dict = {}  # Dictionary to hold player name and player ID
+    player_dict = {}
 
     if 'body' in lakersPlayers and 'roster' in lakersPlayers['body']:
         # Populate the dictionary with player names and their IDs
@@ -17,19 +17,16 @@ def getPlayerIdAndNames():
 
     return player_dict
 
-def create_wordcloud(player_dict, metric):
-    # Dictionary to hold player metrics
+def create_wordcloud(player_dict, metric):    
     metric_dict = {}
 
     # Iterate through each player name and ID in the dictionary
-    for player_name, player_id in player_dict.items():
-        # Construct the file name for the player's JSON data
+    for player_name, player_id in player_dict.items():        
         folder = 'playerLakers23-24'
         file_name = f"{player_id}.json"
 
         file_name = os.path.join(folder, file_name)
-        
-        # Check if the JSON file exists
+                
         if os.path.exists(file_name):
             with open(file_name, 'r') as file:
                 player_data = json.load(file)
@@ -43,24 +40,23 @@ def create_wordcloud(player_dict, metric):
             print(f"File {file_name} does not exist.")
 
     # Create a word cloud
-    if metric_dict:  # Check if metric_dict is not empty
+    if metric_dict:
         wordcloud = WordCloud(width=800, height=400, background_color='white').generate_from_frequencies(metric_dict)
 
         # Display the word cloud
         plt.figure(figsize=(10, 5))
         plt.imshow(wordcloud, interpolation='bilinear')
-        plt.axis('off')  # Hide the axes
-        plt.title(f'Word Cloud for {metric}')  # Set the title for the plot
+        plt.axis('off')
+        plt.title(f'Word Cloud for {metric}')
         plt.show()
     else:
         print("No data available to generate a word cloud.")
 
 # Example usage
 if __name__ == "__main__":
-    player_dict = getPlayerIdAndNames()  # Get a dictionary of player names and IDs
-
-    # List of metrics to create word clouds for
+    player_dict = getPlayerIdAndNames()
+    
     metrics = ['pointsPerGame', 'assistsPerGame', 'totalReboundsPerGame', 'stealsPerGame', 'blocksPerGame']
 
     for metric in metrics:
-        create_wordcloud(player_dict, metric)  # Create the word cloud for each metric
+        create_wordcloud(player_dict, metric)

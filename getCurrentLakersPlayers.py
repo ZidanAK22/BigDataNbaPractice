@@ -3,17 +3,15 @@ import http.client
 import os
 import dotenv
 
-# Load environment variables
 dotenv.load_dotenv()
 
-# Load API key and host from the .env file
+# get api key from rapidapi.com
+# and subscribe to https://rapidapi.com/kdb-sports-kdb-sports-default/api/basketball-head
 api_key = os.getenv("x-rapidapi-key")
 api_host = os.getenv("x-rapidapi-host")
 
-# Establish HTTPS connection to the API host
 conn = http.client.HTTPSConnection(api_host)
 
-# Set request headers
 headers = {
     'x-rapidapi-key': api_key,
     'x-rapidapi-host': api_host
@@ -37,5 +35,4 @@ except Exception as e:
     print(f"An error occurred: {e}")
 
 finally:
-    # Close the connection
     conn.close()
