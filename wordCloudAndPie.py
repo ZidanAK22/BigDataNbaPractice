@@ -2,6 +2,8 @@ import json
 import os
 import matplotlib.pyplot as plt
 import pandas as pd
+import numpy as np
+from PIL import Image
 from wordcloud import WordCloud
 
 def getPlayerIdAndNames():
@@ -20,6 +22,8 @@ def getPlayerIdAndNames():
 
 def create_wordcloud_and_pie_chart(player_dict, metric):
     metric_dict = {}
+
+    mask = np.array(Image.open('lakers.png'))
 
     # Iterate through each player name and ID in the dictionary
     for player_name, player_id in player_dict.items():        
@@ -53,7 +57,7 @@ def create_wordcloud_and_pie_chart(player_dict, metric):
         df.to_csv(os.path.join(save_dir, f"{metric}.csv"), index=False)  # Use os.path.join for compatibility
         print(f"DataFrame for {metric} saved as {metric}.csv")
 
-        wordcloud = WordCloud(width=800, height=400, background_color='white').generate_from_frequencies(metric_dict)
+        wordcloud = WordCloud(width=800, height=400, background_color='white', mask=mask, contour_color='gold', contour_width=1).generate_from_frequencies(metric_dict)
 
         # Display the word cloud
         plt.figure(figsize=(10, 5))

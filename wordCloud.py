@@ -1,7 +1,10 @@
 import json
 import os
-from wordcloud import WordCloud
 import matplotlib.pyplot as plt
+import numpy as np
+from wordcloud import WordCloud
+from PIL import Image
+
 
 def getPlayerIdAndNames():
     with open('LakersPlayerData.json', 'r') as file:
@@ -19,6 +22,8 @@ def getPlayerIdAndNames():
 
 def create_wordcloud(player_dict, metric):    
     metric_dict = {}
+
+    mask = np.array(Image.open('lakers.png'))
 
     # Iterate through each player name and ID in the dictionary
     for player_name, player_id in player_dict.items():        
@@ -41,7 +46,7 @@ def create_wordcloud(player_dict, metric):
 
     # Create a word cloud
     if metric_dict:
-        wordcloud = WordCloud(width=800, height=400, background_color='white').generate_from_frequencies(metric_dict)
+        wordcloud = WordCloud(width=800, height=400, background_color='purple', mask=mask, contour_color='gold', contour_width=1).generate_from_frequencies(metric_dict)
 
         # Display the word cloud
         plt.figure(figsize=(10, 5))
